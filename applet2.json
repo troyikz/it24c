@@ -1,0 +1,17 @@
+[
+    {
+        "latitude": 8.6000,  
+        "longitude": 124.8500,
+        "message": "Lingion Community Park"
+    },
+    {
+        "latitude": 8.6050, 
+        "longitude": 124.8450,
+        "message": "Lingion School"
+    },
+    {
+        "latitude": 8.6100,  
+        "longitude": 124.8400,
+        "message": "Lingion Market"
+    }
+]
