@@ -1,0 +1,32 @@
+[
+    {
+        "sport_name": "Basketball",
+        "year_invented": 1891,
+        "place_of_origin": "Springfield, Massachusetts, USA",
+        "description": "A team sport where two teams compete to score points by throwing a ball through the opposing team’s hoop."
+    },
+    {
+        "sport_name": "Soccer (Football)",
+        "year_invented": 1863,
+        "place_of_origin": "England",
+        "description": "A team sport played between two teams of eleven players, where the objective is to score by getting the ball into the opposing goal."
+    },
+    {
+        "sport_name": "Tennis",
+        "year_invented": "Late 19th century",
+        "place_of_origin": "England",
+        "description": "A racquet sport played individually or in teams of two, aiming to hit the ball over a net into the opponent's court."
+    },
+    {
+        "sport_name": "Cricket",
+        "year_invented": "16th century (formalized in 18th century)",
+        "place_of_origin": "England",
+        "description": "A bat-and-ball game played between two teams of eleven players, scoring runs by hitting the ball and running between wickets."
+    },
+    {
+        "sport_name": "Volleyball",
+        "year_invented": 1895,
+        "place_of_origin": "Holyoke, Massachusetts, USA",
+        "description": "A team sport where two teams are separated by a net and score points by hitting a ball over the net into the opposing team's court."
+    }
+]
