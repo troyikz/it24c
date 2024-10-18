@@ -1,0 +1,26 @@
+[
+    {
+        "Applet_No": "Applet - Basic Events",
+        "Description": "This application contains the basic implementation of DOM events",
+        "file": "applet1.html",
+        "Image": "https://www.bing.com/th/id/OGC.39c8223d41e018c906eb5345e3d67e6c?pid=1.7&rurl=https%3a%2f%2fmedia.tenor.com%2fwJgcUsVQ3L8AAAAC%2fluffy-gear-5-one-piece.gif&ehk=UsVqOpyVslnR5kiDPTZ7up3bUTEP28UpBaMQlhHVe78%3d"
+      },
+      {
+        "Applet_No": "Applet 2 - Leaflet Map",
+        "Description": "This application contains the basic web map",
+        "file": "applet2.html",
+        "Image": "https://www.bing.com/th/id/OGC.3ea29493f624a5c313695541b20b3019?pid=1.7&rurl=https%3a%2f%2fgiffiles.alphacoders.com%2f219%2f219001.gif&ehk=hbb%2fHU1sp9s31lqNPShOmPdF%2flJbGIsFioHV9cLHMyQ%3d"
+      },
+      {
+        "Applet_No": "Applet 3 - Event Button Logger",
+        "Description": "tracks and records user interactions with buttons, providing insights into usage patterns and user behavior",
+        "file": "applet3.html",
+        "Image": "https://www.bing.com/th/id/OGC.0405229afc557575f0daae624efe1440?pid=1.7&rurl=https%3a%2f%2fmedia1.tenor.com%2fm%2fkYG6sKfpA8EAAAAC%2fluffy-gear-5.gif&ehk=gEi6HvkRrpNP0PP1z4ySZI%2fIQE7T7sxA6%2bdGuW34TtM%3d"
+      },
+      {
+        "Applet_No": "Applet 4 - Dynamic Elements",
+        "Description": "tracks and records user interactions with buttons, providing insights into usage patterns and user behavior",
+        "file": "index.html",
+        "Image": "https://www.bing.com/th/id/OGC.346551d6a2ae7e914b8b20557f51d9d2?pid=1.7&rurl=https%3a%2f%2fmedia.tenor.com%2fKPRNbXFea3sAAAAC%2fgear-5-luffy.gif&ehk=GbnAbNEB5TD%2fktGaEka9o1Lz58XdmcY3aODkiz%2brcZA%3d"
+      }
+]
