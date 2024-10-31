@@ -28,5 +28,11 @@
         "Description": "tracks the specific weather, humid and temperature status through an API key with the city provided.",
         "file": "applet5.html",
         "Image": "https://th.bing.com/th/id/OIP.Do51sYWoQv9W_kYS0KsakwHaEN?w=282&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
-      }
+      },
+      {
+        "Applet_No": "Applet 6 - Todo List",
+         "Description": "This application is your ultimate productivity companion, designed to help you organize and prioritize tasks effortlessly.",
+         "file": "applet-6.html",
+         "Image": "https://th.bing.com/th?id=OIP.5qklEr2KdXL8hkPyM6v84AHaEo&w=316&h=197&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
+       }
 ]
